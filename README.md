@@ -68,8 +68,8 @@ Dynamic **Full Stack Developer** with over **2.5 years** of backend-focused expe
 ---
 
 ## 🌱 Currently Learning:
-- Advanced **Next.js** techniques.
-- Real-time data processing with **Kafka**.
+- Advanced **Next.js** & **Nest.js** techniques.
+- Real-time data processing with **Kafka** & **RMQ**.
 - Building cloud-native applications on **AWS**.
 
 ---
