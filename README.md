@@ -14,8 +14,13 @@ Dynamic **Full Stack Developer** with over **2.5 years+** of backend-focused exp
 ---
 
 ## 🔥 My Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmannizam&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmannizam&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=salmannizam&show_icons=true&theme=radical" style="width: 48%; height: 200px; object-fit: cover;">
+
+    <!-- Most Used Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmannizam&layout=compact&theme=radical" style="width: 48%; height: 200px; object-fit: cover;">
+</div>
 
 ---
 
