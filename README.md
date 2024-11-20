@@ -2,6 +2,8 @@
 
 Dynamic **Full Stack Developer** with over **2.5 years** of backend-focused experience in technologies like **PHP**, **Laravel**, **Node.js**, and **MongoDB**. Passionate about solving technical challenges, building scalable applications, and delivering user-centric solutions in fast-paced environments.
 
+---
+
 ## 🛠️ Expertise & Skills:
 - **Backend:** Node.js, NestJS, PHP, Laravel, REST APIs, Redis
 - **Frontend:** React, Next.js, JavaScript, HTML, CSS, Bootstrap, jQuery
@@ -9,18 +11,29 @@ Dynamic **Full Stack Developer** with over **2.5 years** of backend-focused expe
 - **Tools & Platforms:** Git, Docker, Postman, AWS, Linux
 - **Other Expertise:** API Integration, Authentication Systems, Agile Methodologies
 
-## 🌟 Highlights:
-- Designed and developed a CRM dashboard using **React** and **Node.js**, streamlining customer interactions.
-- Built backend systems integrating APIs from **IRCTC Rail**, **RedBus**, and **TBO** for real-time booking and optimization.
-- Migrated frontends to **Next.js**, improving load times by 30%.
-- Reduced backend latency by 35% with optimized Redis caching.
-- Developed a **stock market insights platform** processing data for 1,000+ companies daily.
+---
+
+## 🔥 My Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmannizam&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmannizam&layout=compact&theme=radical)
 
 ---
 
-## 🔥 Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmannizam&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmannizam&layout=compact&theme=radical)
+## 💻 Languages and Tools:
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -42,9 +55,9 @@ Dynamic **Full Stack Developer** with over **2.5 years** of backend-focused expe
 ---
 
 ## 🌐 Connect with Me:
-[![Portfolio](https://img.shields.io/badge/Portfolio-salmannizam.in-blue?style=flat-square&logo=internetexplorer)](https://www.salmannizam.in)
-[![GitHub](https://img.shields.io/badge/GitHub-salmannizam-black?style=flat-square&logo=github)](https://github.com/salmannizam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salman%20Nizam-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/salman-nizam-041537201)
+[![Portfolio](https://img.shields.io/badge/Portfolio-salmannizam.in-blue?style=for-the-badge&logo=internetexplorer)](https://www.salmannizam.in)
+[![GitHub](https://img.shields.io/badge/GitHub-salmannizam-black?style=for-the-badge&logo=github)](https://github.com/salmannizam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salman%20Nizam-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salman-nizam-041537201)
 
 ---
 
