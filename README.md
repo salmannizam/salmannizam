@@ -17,19 +17,20 @@ Dynamic **Full Stack Developer** with over **2.5 years+** of backend-focused exp
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <!-- GitHub Stats -->
-  <div style="flex: 1; margin-right: 10px;">
+  <div style="flex: 1; margin-right: 0px;">
     <img src="https://github-readme-stats.vercel.app/api?username=salmannizam&show_icons=true&theme=radical" style="width: 100%;">
   </div>
 
   <!-- Most Used Languages -->
-  <div style="flex: 1; margin-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmannizam&layout=compact&theme=radical" style="width: 100%;">
+  <div style="flex: 1; margin-left: 0px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmannizam&theme=radical" style="width: 100%;">
   </div>
 </div>
 
 <!-- Streak Stats -->
 <div style="margin-top: 20px; width: 100%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmannizam&theme=radical" style="width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmannizam&layout=compact&theme=radical" style="width: 100%;">
+  
 </div>
 
 
