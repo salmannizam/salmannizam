@@ -14,14 +14,11 @@ Dynamic **Full Stack Developer** with over **2.5 years+** of backend-focused exp
 ---
 
 ## 🔥 My Stats:
-<div style="display: flex; justify-content: space-between; align-items: stretch; gap: 10px;">
-    <div style="flex: 1; display: flex; justify-content: center; align-items: center; height: 200px; background-color: #1a1a1a;">
-        <img src="https://github-readme-stats.vercel.app/api?username=salmannizam&show_icons=true&theme=radical" style="max-height: 100%; width: auto;">
-    </div>
-    <div style="flex: 1; display: flex; justify-content: center; align-items: center; height: 200px; background-color: #1a1a1a;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmannizam&layout=compact&theme=radical" style="max-height: 100%; width: auto;">
-    </div>
-</div>
+
+| GitHub Stats | Most Used Languages |
+|--------------|----------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmannizam&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmannizam&layout=compact&theme=radical) |
+
 
 ---
 
