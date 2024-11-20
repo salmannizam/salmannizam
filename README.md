@@ -57,7 +57,7 @@ Dynamic **Full Stack Developer** with over **2.5 years+** of backend-focused exp
 
 
 ## 🌐 Connect with Me:
-[![Portfolio](https://img.shields.io/badge/Portfolio-salmannizam.in-blue?style=for-the-badge&logo=internetexplorer)](https://www.salmannizam.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-salmannizam.in-blue?style=for-the-badge&logo=internetexplorer)](http://www.salmannizam.in)
 [![GitHub](https://img.shields.io/badge/GitHub-salmannizam-black?style=for-the-badge&logo=github)](https://github.com/salmannizam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salman%20Nizam-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salman-nizam-041537201)
 
