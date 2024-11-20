@@ -36,7 +36,7 @@ Dynamic **Full Stack Developer** with over **2.5 years+** of backend-focused exp
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-
+<!--
 ## 🚀 Projects:
 ### 🏆 [PolicyX.com](https://policyx.com/)
 - Developed CRM and backend functionalities for seamless policy management and claims processing.
@@ -53,6 +53,8 @@ Dynamic **Full Stack Developer** with over **2.5 years+** of backend-focused exp
 - Developed a robust patient management system with secure authentication and API integrations.
 
 ---
+-->
+
 
 ## 🌐 Connect with Me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-salmannizam.in-blue?style=for-the-badge&logo=internetexplorer)](https://www.salmannizam.in)
