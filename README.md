@@ -17,7 +17,7 @@ Dynamic **Full Stack Developer** with over **2.5 years+** of backend-focused exp
 
 | GitHub Stats                                                                                  | Streak Stats                                                                                 |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmannizam&show_icons=true&theme=radical&include_all_commits=true&cache_bust=1) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salmannizam&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmannizam&show_icons=true&theme=radical&include_all_commits=true&cache_bust=3) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salmannizam&theme=radical) |
 
 
 
