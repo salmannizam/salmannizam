@@ -2,8 +2,8 @@ name: Update README Stats
 
 on:
   schedule:
-    # - cron: '0 0 * * *' # Runs daily at midnight
-    - cron: '*/1 * * * *' # Runs every minute
+    - cron: '0 0 * * *' # Runs daily at midnight
+    # - cron: '*/1 * * * *' # Runs every minute
 
 jobs:
   update-readme:
