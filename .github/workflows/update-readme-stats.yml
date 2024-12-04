@@ -1,22 +1,22 @@
-name: Update README Stats
+# name: Update README Stats
 
-on:
-  schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
-    # - cron: '*/1 * * * *' # Runs every minute
+# on:
+#   schedule:
+#     - cron: '0 0 * * *' # Runs daily at midnight
+#     # - cron: '*/1 * * * *' # Runs every minute
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+# jobs:
+#   update-readme:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout Repository
+#         uses: actions/checkout@v3
 
-      - name: Update README
-        run: |
-          sed -i "s/cache_bust=[0-9]*/cache_bust=$(date +%s)/g" README.md
-          git config user.name "GitHub Action"
-          git config user.email "actions@github.com"
-          git add README.md
-          git commit -m "Update README stats cache_bust"
-          git push
+#       - name: Update README
+#         run: |
+#           sed -i "s/cache_bust=[0-9]*/cache_bust=$(date +%s)/g" README.md
+#           git config user.name "GitHub Action"
+#           git config user.email "actions@github.com"
+#           git add README.md
+#           git commit -m "Update README stats cache_bust"
+#           git push
