@@ -3,7 +3,7 @@
 Dynamic **Full Stack Developer** with over **2.5 years+** of backend-focused experience in technologies like **PHP**, **Laravel**, **Node.js**, and **MongoDB**. Passionate about solving technical challenges, building scalable applications, and delivering user-centric solutions in fast-paced environments.
  
 ---
-
+ 
 ## 🛠️ Expertise & Skills:
 - **Backend:** Node.js, NestJS, PHP, Laravel, REST APIs, Redis
 - **Frontend:** React, Next.js, JavaScript, HTML, CSS, Bootstrap, jQuery
