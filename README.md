@@ -22,7 +22,7 @@ Dynamic **Full Stack Developer** with over **2.5 years+** of backend-focused exp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmannizam&layout=compact&theme=radical&cache_bust=1234">
 </div>
 
----
+--- 
 
 ## 💻 Languages and Tools:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
