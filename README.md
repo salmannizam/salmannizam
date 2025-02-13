@@ -12,6 +12,7 @@ Dynamic **Full Stack Developer** with over **2.5 years+** of backend-focused exp
 - **Other Expertise:** API Integration, Authentication Systems, Agile Methodologies
 ---
 
+
 ## 🔥 My Stats:
 
 | GitHub Stats                                                                                  | Streak Stats                                                                                  |
