@@ -23,6 +23,7 @@ Dynamic **Full Stack Developer** with over **2.5 years+** of backend-focused exp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmannizam&layout=compact&theme=radical&cache_bust=12343">
 </div>
 
+
 --- 
 
 ## 💻 Languages and Tools:
