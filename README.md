@@ -12,13 +12,18 @@ Dynamic **Full Stack Developer** with over **2.5 years+** of backend-focused exp
 - **Other Expertise:** API Integration, Authentication Systems, Agile Methodologies
 ---
 
+<!--
+| ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=salmannizam) |
 
+![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=salmannizam&theme=radical)
+
+-->
 
 ## 🔥 My Stats:
 
 | GitHub Stats                                                                                  | Streak Stats                                                                                  |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmannizam&show_icons=true&theme=radical&include_all_commits=true&cache_bust=1235) | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=salmannizam) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmannizam&show_icons=true&theme=radical&include_all_commits=true&cache_bust=1235) | ![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=salmannizam&theme=radical)|
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmannizam&layout=compact&theme=radical&cache_bust=12343">
