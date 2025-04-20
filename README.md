@@ -1,6 +1,6 @@
 # Hi 👋, I'm Salman Nizam!
 
-Dynamic **Full Stack Developer** with over **3+ years+** of backend-focused experience in technologies like **PHP**, **Laravel**, **Node.js**, and **MongoDB**. Passionate about solving technical challenges, building scalable applications, and delivering user-centric solutions in fast-paced environments.
+Dynamic **Full Stack Developer** with over **3 years+** of backend-focused experience in technologies like **PHP**, **Laravel**, **Node.js**, and **MongoDB**. Passionate about solving technical challenges, building scalable applications, and delivering user-centric solutions in fast-paced environments.
  
 ---
  
