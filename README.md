@@ -13,7 +13,7 @@ Dynamic **Full Stack Developer** with over **3 years+** of backend-focused exper
 ---
 
 <!--
-| ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=salmannizam) |
+| ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=salmannizam) | 
 
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=salmannizam&theme=radical)
 
